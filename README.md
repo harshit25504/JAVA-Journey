@@ -1,2 +1,2 @@
 # JAVA-Journey
-here i do jav basics questions 
+This is my JAVA learning journey.
