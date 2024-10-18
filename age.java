@@ -8,7 +8,7 @@ public class age {
             System.out.println("Adult👍");
         }
         else{
-            System.out.println("Nigga u ain't an adult💀🙏");
+            System.out.println("Blud u ain't an adult💀🙏");
         }
     }
 }

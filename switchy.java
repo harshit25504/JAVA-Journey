@@ -4,16 +4,16 @@ public class switchy{
         Scanner sc = new Scanner(System.in);
         int button = sc.nextInt();
         switch(button){
-            case 1 : System.out.println("Digga");
+            case 1 : System.out.println("Look");
             break;
             
-            case 2 : System.out.println("Chigga");
+            case 2 : System.out.println("Cook");
             break;
 
-            case 3 : System.out.println("Nigga");
+            case 3 : System.out.println("Book");
             break;
 
-            default : System.out.println("Homie");
+            default : System.out.println("Shook");
         }
     }
 }

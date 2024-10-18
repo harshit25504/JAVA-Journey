@@ -13,7 +13,7 @@ public class home5 {
                 System.out.println("Nice");
             }
             else if(marks >= 0 && marks <= 59){
-                System.out.println("Nigga Dafaq");
+                System.out.println("Ow Hell Naww");
             }
             else{
                 System.out.println("Invalid");
