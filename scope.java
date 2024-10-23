@@ -22,7 +22,7 @@ public class scope {
             int num = 99;
             a = 10000;
         }
-        System.out.println();
+        System.out.println( );
     }
     static void random(int marks) {
         int num = 67;
